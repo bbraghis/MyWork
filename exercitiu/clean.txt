@@ -1,0 +1,3 @@
+CAND ESTE EXECUTAT:
+1. sterge folderul generated
+2. Cu comanda echo pune pe ecran "CLEANING DONE"

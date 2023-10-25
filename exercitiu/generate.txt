@@ -1,0 +1,5 @@
+CAND SE EXECUTA SCRIPTUL:
+1. Creaza folder generated
+2. In folder creaza test1
+3. Executa comenzile necesare ca sa arate fix ca test1 original
+4. Executa ls -l
